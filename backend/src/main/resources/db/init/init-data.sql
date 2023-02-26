@@ -1,0 +1,1 @@
+INSERT INTO agent VALUES('admin', 'John', 'Doe', '$2a$10$Jq6ue3Sn0CiE9Hu59OXjLuQukYJLM/qtQMD1pwIyaX5vI580mT9N6')
