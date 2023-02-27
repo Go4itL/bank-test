@@ -1,0 +1,31 @@
+package org.softparadigm.bankbackend.dto;
+
+public class AuthResponse {
+    private String username;
+    private String token;
+    private long expire;
+
+    public String getUsername() {
+        return username;
+    }
+
+    public void setUsername(String username) {
+        this.username = username;
+    }
+
+    public String getToken() {
+        return token;
+    }
+
+    public void setToken(String token) {
+        this.token = token;
+    }
+
+    public long getExpire() {
+        return expire;
+    }
+
+    public void setExpire(long expire) {
+        this.expire = expire;
+    }
+}

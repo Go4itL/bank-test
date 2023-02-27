@@ -6,7 +6,6 @@ import org.softparadigm.bankbackend.dto.AgentPayload;
 import org.softparadigm.bankbackend.model.Agent;
 import org.softparadigm.bankbackend.repository.IAgentRepository;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.data.domain.Example;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.lang.NonNull;
 import org.springframework.security.core.userdetails.UserDetails;
